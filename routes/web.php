@@ -28,3 +28,15 @@ Route::get('/contact', function() {
 Route::get('/welcome', function () {
     return view('welcome');
 });
+Auth::routes();
+/** 
+ * TODO: Remove all login and register stuff
+ * Remove/change "Laravel" in header
+ * update header to nav bar stuff
+ * place images in portfolio
+ * link to code
+ * demo somehow? 
+ * Link to resume
+ * Contact info page
+ * nav at footer and header
+ */
