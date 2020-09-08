@@ -1,0 +1,1 @@
+# gostgaming.github.io
